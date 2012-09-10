@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspirationPlatform.Web", "InspirationPlatform.Web\InspirationPlatform.Web.csproj", "{0C172797-DC69-4036-84E5-479C5C6CDC69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspirationPlatform.Web.Tests", "InspirationPlatform.Web.Tests\InspirationPlatform.Web.Tests.csproj", "{20C9D782-0CBB-4187-94F3-39E91D5F8069}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{EAD754F5-7109-41A0-83DD-C0B9D60300E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{9ACE9667-016A-434E-9F3F-1609A092BC69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{34DAF182-6559-445B-A9AD-5539831B768E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{59A1EF96-A1CC-43BA-96DE-4010C3EDEE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspirationPlatform.WebAPI", "InspirationPlatform.WebAPI\InspirationPlatform.WebAPI.csproj", "{3870732A-DC6B-4FA3-A640-3C166A027893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspirationPlatform.WebAPI.Tests", "InspirationPlatform.WebAPI.Tests\InspirationPlatform.WebAPI.Tests.csproj", "{AB565652-8C18-4A21-88CA-75EAE2ADF0D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspirationPlatform.Core", "InspirationPlatform.Core\InspirationPlatform.Core.csproj", "{B43A9FA1-E7D0-41B7-B742-38F71E4A45CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspirationPlatform.Services", "InspirationPlatform.Services\InspirationPlatform.Services.csproj", "{53B5CB8E-1844-4284-8052-CF1F61688CB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspirationPlatform.Web.Admin", "InspirationPlatform.Web.Admin\InspirationPlatform.Web.Admin.csproj", "{767EFCEF-EBB0-4D9C-82D7-13DA292A3641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspirationPlatform.Web.Admin.Tests", "InspirationPlatform.Web.Admin.Tests\InspirationPlatform.Web.Admin.Tests.csproj", "{731F1D8E-396B-4477-97E5-89C412E7D28B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C172797-DC69-4036-84E5-479C5C6CDC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C172797-DC69-4036-84E5-479C5C6CDC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C172797-DC69-4036-84E5-479C5C6CDC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C172797-DC69-4036-84E5-479C5C6CDC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C9D782-0CBB-4187-94F3-39E91D5F8069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C9D782-0CBB-4187-94F3-39E91D5F8069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C9D782-0CBB-4187-94F3-39E91D5F8069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C9D782-0CBB-4187-94F3-39E91D5F8069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3870732A-DC6B-4FA3-A640-3C166A027893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3870732A-DC6B-4FA3-A640-3C166A027893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3870732A-DC6B-4FA3-A640-3C166A027893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3870732A-DC6B-4FA3-A640-3C166A027893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB565652-8C18-4A21-88CA-75EAE2ADF0D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB565652-8C18-4A21-88CA-75EAE2ADF0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB565652-8C18-4A21-88CA-75EAE2ADF0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB565652-8C18-4A21-88CA-75EAE2ADF0D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43A9FA1-E7D0-41B7-B742-38F71E4A45CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43A9FA1-E7D0-41B7-B742-38F71E4A45CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43A9FA1-E7D0-41B7-B742-38F71E4A45CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43A9FA1-E7D0-41B7-B742-38F71E4A45CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B5CB8E-1844-4284-8052-CF1F61688CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B5CB8E-1844-4284-8052-CF1F61688CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B5CB8E-1844-4284-8052-CF1F61688CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B5CB8E-1844-4284-8052-CF1F61688CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767EFCEF-EBB0-4D9C-82D7-13DA292A3641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767EFCEF-EBB0-4D9C-82D7-13DA292A3641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767EFCEF-EBB0-4D9C-82D7-13DA292A3641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767EFCEF-EBB0-4D9C-82D7-13DA292A3641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731F1D8E-396B-4477-97E5-89C412E7D28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731F1D8E-396B-4477-97E5-89C412E7D28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731F1D8E-396B-4477-97E5-89C412E7D28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731F1D8E-396B-4477-97E5-89C412E7D28B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0C172797-DC69-4036-84E5-479C5C6CDC69} = {9ACE9667-016A-434E-9F3F-1609A092BC69}
+		{767EFCEF-EBB0-4D9C-82D7-13DA292A3641} = {9ACE9667-016A-434E-9F3F-1609A092BC69}
+		{20C9D782-0CBB-4187-94F3-39E91D5F8069} = {34DAF182-6559-445B-A9AD-5539831B768E}
+		{AB565652-8C18-4A21-88CA-75EAE2ADF0D7} = {34DAF182-6559-445B-A9AD-5539831B768E}
+		{731F1D8E-396B-4477-97E5-89C412E7D28B} = {34DAF182-6559-445B-A9AD-5539831B768E}
+		{B43A9FA1-E7D0-41B7-B742-38F71E4A45CF} = {EAD754F5-7109-41A0-83DD-C0B9D60300E4}
+		{53B5CB8E-1844-4284-8052-CF1F61688CB0} = {EAD754F5-7109-41A0-83DD-C0B9D60300E4}
+		{3870732A-DC6B-4FA3-A640-3C166A027893} = {59A1EF96-A1CC-43BA-96DE-4010C3EDEE0C}
+	EndGlobalSection
+EndGlobal

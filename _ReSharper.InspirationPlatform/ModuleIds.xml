@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="3870732A-DC6B-4FA3-A640-3C166A027893" ModuleId="InspirationPlatform.WebAPI" />
+  <Module PersistentId="0C172797-DC69-4036-84E5-479C5C6CDC69" ModuleId="InspirationPlatform.Web" />
+  <Module PersistentId="B43A9FA1-E7D0-41B7-B742-38F71E4A45CF" ModuleId="InspirationPlatform.Core" />
+  <Module PersistentId="53B5CB8E-1844-4284-8052-CF1F61688CB0" ModuleId="InspirationPlatform.Services" />
+  <Module PersistentId="767EFCEF-EBB0-4D9C-82D7-13DA292A3641" ModuleId="InspirationPlatform.Web.Admin" />
+</Modules>
