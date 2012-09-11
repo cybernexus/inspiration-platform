@@ -4,10 +4,35 @@
     <File id="0C172797-DC69-4036-84E5-479C5C6CDC69/f:Global.asax.cs" caret="538" fromTop="20" />
     <File id="3870732A-DC6B-4FA3-A640-3C166A027893/d:Controllers/f:ValuesController.cs" caret="163" fromTop="5" />
     <File id="767EFCEF-EBB0-4D9C-82D7-13DA292A3641/d:Controllers/f:HomeController.cs" caret="320" fromTop="11" />
+    <File id="B43A9FA1-E7D0-41B7-B742-38F71E4A45CF/d:DataModel/f:BaseEntity.cs" caret="267" fromTop="11" />
+    <File id="B43A9FA1-E7D0-41B7-B742-38F71E4A45CF/d:DataModel/d:Users/f:UserRole.cs" caret="239" fromTop="10" />
+    <File id="B43A9FA1-E7D0-41B7-B742-38F71E4A45CF/d:DataModel/d:Users/f:UserProfile.cs" caret="0" fromTop="0" />
+    <File id="53B5CB8E-1844-4284-8052-CF1F61688CB0/d:Security/f:InspirationPlatformRoleProvider.cs" caret="764" fromTop="24" />
+    <File id="53B5CB8E-1844-4284-8052-CF1F61688CB0/d:Security/f:Crypto.cs" caret="1800" fromTop="58" />
+    <File id="B43A9FA1-E7D0-41B7-B742-38F71E4A45CF/d:DataModel/d:Users/f:User.cs" caret="350" fromTop="11" />
+    <File id="53B5CB8E-1844-4284-8052-CF1F61688CB0/d:Security/f:InspirationPlatformMembershipProvider.cs" caret="3733" fromTop="0" />
+    <File id="0C172797-DC69-4036-84E5-479C5C6CDC69/d:Entities/f:User.cs" caret="430" fromTop="13" />
+    <File id="53B5CB8E-1844-4284-8052-CF1F61688CB0/d:Users/f:IUserService.cs" caret="263" fromTop="9" />
+    <File id="B43A9FA1-E7D0-41B7-B742-38F71E4A45CF/d:Context/f:DataContext.cs" caret="0" fromTop="0" />
+    <File id="0C172797-DC69-4036-84E5-479C5C6CDC69/d:Membership/f:CodeFirstMembershipProvider.cs" caret="0" fromTop="0" />
+    <File id="0C172797-DC69-4036-84E5-479C5C6CDC69/d:Membership/f:WebSecurity.cs" caret="0" fromTop="0" />
+    <File id="0C172797-DC69-4036-84E5-479C5C6CDC69/d:Membership/f:CodeFirstRoleProvider.cs" caret="0" fromTop="0" />
+    <File id="0C172797-DC69-4036-84E5-479C5C6CDC69/d:Filters/f:InitializeSimpleMembershipAttribute.cs" caret="0" fromTop="0" />
+    <File id="53B5CB8E-1844-4284-8052-CF1F61688CB0/d:Security/f:WebSecurity.cs" caret="1219" fromTop="0" />
   </RecentFiles>
   <RecentEdits>
     <File id="0C172797-DC69-4036-84E5-479C5C6CDC69/f:Global.asax.cs" caret="538" fromTop="20" />
     <File id="3870732A-DC6B-4FA3-A640-3C166A027893/d:Controllers/f:ValuesController.cs" caret="33" fromTop="0" />
     <File id="767EFCEF-EBB0-4D9C-82D7-13DA292A3641/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+    <File id="B43A9FA1-E7D0-41B7-B742-38F71E4A45CF/d:DataModel/f:BaseEntity.cs" caret="124" fromTop="6" />
+    <File id="B43A9FA1-E7D0-41B7-B742-38F71E4A45CF/d:DataModel/d:Users/f:UserProfile.cs" caret="59" fromTop="1" />
+    <File id="B43A9FA1-E7D0-41B7-B742-38F71E4A45CF/d:Context/f:DataContext.cs" caret="0" fromTop="0" />
+    <File id="B43A9FA1-E7D0-41B7-B742-38F71E4A45CF/d:DataModel/d:Users/f:UserRole.cs" caret="239" fromTop="10" />
+    <File id="53B5CB8E-1844-4284-8052-CF1F61688CB0/d:Security/f:Crypto.cs" caret="190" fromTop="6" />
+    <File id="53B5CB8E-1844-4284-8052-CF1F61688CB0/d:Security/f:InspirationPlatformRoleProvider.cs" caret="762" fromTop="20" />
+    <File id="B43A9FA1-E7D0-41B7-B742-38F71E4A45CF/d:DataModel/d:Users/f:User.cs" caret="350" fromTop="11" />
+    <File id="53B5CB8E-1844-4284-8052-CF1F61688CB0/d:Users/f:IUserService.cs" caret="263" fromTop="9" />
+    <File id="53B5CB8E-1844-4284-8052-CF1F61688CB0/d:Security/f:InspirationPlatformMembershipProvider.cs" caret="12695" fromTop="20" />
+    <File id="53B5CB8E-1844-4284-8052-CF1F61688CB0/d:Security/f:WebSecurity.cs" caret="1219" fromTop="13" />
   </RecentEdits>
 </RecentFiles>
